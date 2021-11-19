@@ -1,3 +1,6 @@
+// ACS714 sensörü ile akımı okuyan ve gösteren kod
+
+
 // ACS714'ün analog pinini tanımla:
 int AnalogInputPin = 1;
 void setup() {
